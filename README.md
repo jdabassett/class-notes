@@ -5,11 +5,11 @@ ___
 ## **Table of Contents**
 
 ### **Code 201 ClassNotes**
-1. [Class01](201/class01-notes.md)
-1. [Class02](201/class02-notes.md)
-1. [Class03](201/class03-notes.md)
-1. [Class04](201/class04-notes.md)
-1. [Class05](201/class05-notes.md)
+1. [Class01](201d93_class01-notes.md)
+1. [Class02](201d93_class02-notes.md)
+1. [Class03](201d93_class03-notes.md)
+1. [Class04](201d93_class04-notes.md)
+1. [Class05](201d93_class05-notes.md)
 
 ---
 ---
