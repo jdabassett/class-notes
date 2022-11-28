@@ -4,7 +4,7 @@ ___
 ___
 ## **Table of Contents**
 
-### **Code 201 ClassNotes**
+### **Code 201 Class Notes**
 1. [Class01](201d93_class01-notes.md)
 1. [Class02](201d93_class02-notes.md)
 1. [Class03](201d93_class03-notes.md)
